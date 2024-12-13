@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/99969138?v=4" style="border-radius: 15px;">
+  <img src="https://avatars.githubusercontent.com/u/99969138?v=4" style="border-radius: 35px;">
 </p>
 
 

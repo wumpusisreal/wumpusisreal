@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm gvn.</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wumpusisreal&label=Profile%20views&color=0e75b6&style=flat" alt="wumpusisreal" /> </p>
+<img align="center" src="https://avatars.githubusercontent.com/u/99969138?v=4">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wumpusisreal&label=Profile%20views&color=0e75b6&style=flat" alt="wumpusisreal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

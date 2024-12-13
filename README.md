@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wumpusisreal/wumpusisreal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wumpusisreal/wumpusisreal/snake.svg" alt="Snake animation" />
 
 ###
 

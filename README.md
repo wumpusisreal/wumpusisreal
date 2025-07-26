@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm gvn.</h1>
+<h1 align="center">Hi 👋, I'm xentari</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center">

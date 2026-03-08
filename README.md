@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm xentari</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/99969138?v=4">

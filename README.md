@@ -6,4 +6,6 @@
   <img src="https://avatars.githubusercontent.com/u/99969138?v=4">
 </p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oqv2j3a7rb2fxsbfuwglfvjldi&count=5">
+</p>

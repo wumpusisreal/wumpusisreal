@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+
 <h1 align="center">Hi 👋, I'm crynox</h1>
 
 <p align="center">
@@ -5,9 +7,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wumpusisreal&label=Profile%20views&color=0e75b6&style=flat" alt="wumpusisreal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Nothing**
 

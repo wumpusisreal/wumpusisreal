@@ -5,7 +5,7 @@
 ___
 
 ```javascript
-lol
+hello, mainly private projects so sorry :)
 ```
 <br><br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oqv2j3a7rb2fxsbfuwglfvjldi&count=5">
